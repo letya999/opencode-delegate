@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCode Delegate"
+  short_description: "Delegate tasks to OpenCode headlessly"
+  default_prompt: "Use $opencode-delegate to delegate this task to OpenCode headlessly and return the verified result."
