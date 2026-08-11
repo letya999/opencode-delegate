@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "opencode-delegate",
+      "type": "archive",
+      "description": "Run OpenCode CLI as a headless delegate. Use when the user names OpenCode or opencode, says \"ask OpenCode\", wants `opencode run`, wants a provider-agnostic second opinion, or compares coding agents. Do NOT use for interactive sessions, other CLIs, or tasks not meant for delegation.",
+      "url": "https://raw.githubusercontent.com/letya999/opencode-delegate/dev/dist/opencode-delegate.zip",
+      "digest": "sha256:e7306192cccf2f7174032096eead8a1f277b356d30caeccc95dffdd8b9eb6124",
+      "repository": "https://github.com/letya999/opencode-delegate",
+      "license": "MIT",
+      "publisher": "Artem Letyushev"
+    }
+  ]
+}
