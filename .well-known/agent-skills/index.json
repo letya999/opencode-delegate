@@ -6,7 +6,7 @@
       "type": "archive",
       "description": "Run OpenCode CLI as a headless delegate. Use when the user names OpenCode or opencode, says \"ask OpenCode\", wants `opencode run`, wants a provider-agnostic second opinion, or compares coding agents. Do NOT use for interactive sessions, other CLIs, or tasks not meant for delegation.",
       "url": "https://raw.githubusercontent.com/letya999/opencode-delegate/dev/dist/opencode-delegate.zip",
-      "digest": "sha256:cc1dd609f29cebaaa00866822720d2b0d75b1c6e0d3c410c2f8772c39ef5fce2",
+      "digest": "sha256:eb3b5129a7ae0e1c5a445c8135100b4e221f4e5fe38f6dc4be850ab3981abe6d",
       "repository": "https://github.com/letya999/opencode-delegate",
       "license": "MIT",
       "publisher": "Artem Letyushev"
