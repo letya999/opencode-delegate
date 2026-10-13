@@ -1,4 +1,13 @@
 {
   "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
-  "skills": ["opencode-delegate"]
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Delegates",
+      "description": "Run OpenCode CLI as a headless delegate.",
+      "skills": [
+        "opencode-delegate"
+      ]
+    }
+  ]
 }
